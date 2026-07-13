@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Zhengxu Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student<br />School of Computer Science<br />Beijing Institute of Technology"
-  location         : ""
+  bio              : "Ph.D. Student"
+  location         : "School of Computer Science<br />Beijing Institute of Technology"
   employer         :
   uri              : # URL
   email            : "wangzhengxu450@gmail.com"
